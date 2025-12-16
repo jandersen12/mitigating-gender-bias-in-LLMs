@@ -8,7 +8,7 @@ My teammates and I explored methods for reducing gender bias in modern LLM archi
 
 Leveraged spaCy's dependency parser to develop an algorithm that duplicated bios from the dataset while swapping out gendered terms and masking names. This method was able to maintain the accuracy of the model (86%) while achieveing significant drop in the true positive rate gap between males and females.
 
-![tpr-gap-evaluation](~/images/tpr-gap-evaluation.png)
+![tpr-gap-evaluation](images/tpr-gap-evaluation.png)
 
 ### Method 2: Debiased embeddings
 
