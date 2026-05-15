@@ -1,3 +1,10 @@
+---
+title: "Mitigating Bias in Modern LLMs"
+description: "Fine-tuning ModernBERT with counterfactual data augmentation, debiased embeddings, and INLP to reduce occupational prediction bias."
+tags: [natural-language-processing, machine-learning, bias-mitigation, llms-evaluation, responsible-ai]
+date: 2025-12-01
+---
+
 # Mitigating Bias in Modern LLMs
 
 > Comparing three debiasing techniques — counterfactual data augmentation, embedding projection, and iterative nullspace projection — to reduce occupational gender bias in a fine-tuned ModernBERT model.
