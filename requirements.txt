@@ -1,0 +1,14 @@
+# Data & Utilities
+datasets>= 2.18.0
+pandas>=2.2.1
+numpy>=1.26.4
+
+# NLP & Transformers
+transformers>=4.39
+spacy>=3.7
+
+# Deep Learning
+torch>=2.2
+
+# Machine Learning
+scikit-learn>=1.4
