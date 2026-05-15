@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+
+
+# OS artifacts
+.DS_Store
