@@ -90,7 +90,7 @@ pip install -r requirements.txt   # Python
 
 ## Key learnings
 
-- Through this project I gained a robust understanding of transformer architectures, embeddings, and vector spaces. I also experimented with LoRa/PEFT to optimize the fine-tuning stages of the project.
+- Through this project I gained a robust understanding of transformer architectures, embeddings, and vector spaces, and had the opportunity to experiment with LoRa/PEFT to optimize the fine-tuning stages of the project.
 - In the future, I would expand on this project by overlapping multiple mitigation strategies to try and optimize for different fairness measures, such as multi-direction bias.
 
 ## Contributors
